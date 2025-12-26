@@ -244,3 +244,13 @@ The processing module is considered complete only when:
 The EXIF GPS Recorder application displays speed in **km/h** in the user interface (as shown in the screenshot). However, within the exported `.plist`, the `gpsSpeed` value is stored in **m/s**. Therefore, it must be converted to the project standard **km/h** using `speed_kmh = gpsSpeed * 3.6`.
 
 ---
+
+## License
+
+This project is licensed under the [LICENSE](LICENSE). See the license file for details.
+
+---
+
+## Issues, Feature Requests or Support
+
+Please use the Issue > New Issue button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
